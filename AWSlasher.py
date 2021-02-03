@@ -19,7 +19,7 @@ banner = """
 """
 
 usage = """
-    usage: awsrasher.py <target_url> <path_of_script> <directory> <script_name>
+    usage: AWSlasher.py <target_url> <path_of_script> <directory> <script_name>
 
     """
 
