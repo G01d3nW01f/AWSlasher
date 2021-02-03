@@ -82,7 +82,7 @@ attention = """
 """
 
 print(attention)
-
+target_url=targeturl.replace("s3.","")
 payload2 = f"curl {target_url}{script_name} &> /dev/null"
 
 print(payload2)
